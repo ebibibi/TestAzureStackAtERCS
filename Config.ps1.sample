@@ -1,0 +1,4 @@
+$cloudadminUserName = 'yourdomainname\cloudadmin'
+$ErcsVmIP = 'yourErcsVMIP'
+
+$NotificationURI = 'your Teams Incoming Webhook URI'
